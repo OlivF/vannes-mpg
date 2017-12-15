@@ -86,5 +86,29 @@
             "auteur":"#leader"
          }
       ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"#leader, tu connais la différence entre #looser et un pneu?",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Aucune, ils sont pas sur le podium",
+            "auteur":"#leader"
+         }
+      ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"Journée déco ! #leader, pense à prendre la guirlande!",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Ahah nan #looser l'a déjà prise ce week end ;) par contre il a les boules !",
+            "auteur":"#leader"
+         }
+      ]
    }
 ]
