@@ -1,0 +1,90 @@
+[  
+   {  
+      "vanne":[  
+         {  
+            "texte":"Hey #leader, tu viens fumer une clope avec nous?",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Non merci j'ai déjà fumé #looser ce week end.",
+            "auteur":"#leader"
+         }
+      ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"Ca y est #leader, ta réunion est terminée?",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Non mais je sais juste que la ligue est terminée et que j'ai gagné.",
+            "auteur":"#leader"
+         }
+      ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"#leader, c'est toi qui a fait tomber ton stylo pendant la réunion?",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Non moi j'ai juste fait tomber #looser du podium.",
+            "auteur":"#leader"
+         }
+      ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"Hébin, il était copieux ce repas de Noël !",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Oui mais j'ai pas mangé autant que #looser ce week-end",
+            "auteur":"#leader"
+         }
+      ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"C'est bon les gars, vous allez être relou ! Pauvre #looser, il va finir par être remonté contre vous.",
+            "auteur":"#exterieur"
+         },
+         {  
+            "texte":"Entre nous les gars, c'est sûr qu'il ne remontera pas au classement.",
+            "auteur":"#leader"
+         },
+         {  
+            "texte":"Mettez-vous un peu à sa place, merde!",
+            "auteur":"#exterieur"
+         }
+      ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"J'ai paumé mon badge... :( #participant2, ce serait pas toi qui l'aurait ramassé.",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Non c'est pas moi, c'est #looser qui a ramassé.",
+            "auteur":"#participant2"
+         }
+      ]
+   },
+   {  
+      "vanne":[  
+         {  
+            "texte":"#leader, tu viens dans notre bureau? #exterieur à ramené des biscuits fourrés :)",
+            "auteur":"#participant1"
+         },
+         {  
+            "texte":"Merci mais j'ai déjà bien fourré #looser ce weekend donc je prendrai juste un café.",
+            "auteur":"#leader"
+         }
+      ]
+   }
+]
